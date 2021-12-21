@@ -1,0 +1,28 @@
+server:
+  port: 8085
+spring:
+  jpa:
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  datasource:
+    platform: h2
+    schema: classpath:sql/schema.sql
+    data: classpath:sql/data.sql
+
+  h2:
+    console:
+      enabled: true
+      settings:
+        web-allow-others: true
+      path: /h2-console
+
+
+logging:
+  level:
+    root: INFO
+
+dingtalk:
+  app_key: ${appKey}
+  app_secret: ${appSecret}
