@@ -26,3 +26,5 @@ logging:
 dingtalk:
   app_key: ${appKey}
   app_secret: ${appSecret}
+  corp_id: ${corpId}
+  agent_id: ${agentId}
