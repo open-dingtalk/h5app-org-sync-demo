@@ -188,7 +188,13 @@ oa查看组织信息
 
 ## 6. 参考文档
 
-【列出所使用的钉钉api文档链接】
+1. 同步通讯录权限申请，文档链接：https://open.dingtalk.com/document/orgapp-server/address-book-permissions
+2. 创建用户：https://open.dingtalk.com/document/orgapp-server/user-information-creation
+3. 更新用户信息：https://open.dingtalk.com/document/orgapp-server/user-information-update
+4. 删除用户：https://open.dingtalk.com/document/orgapp-server/delete-a-user
+5. 根据手机号获取userId：https://open.dingtalk.com/document/orgapp-server/query-users-by-phone-number
+6. 创建部门：https://open.dingtalk.com/document/orgapp-server/create-a-department-v2
+7. 更新部门：https://open.dingtalk.com/document/orgapp-server/update-a-department-v2
 
 ## 7.免责声明
 
