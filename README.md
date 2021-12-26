@@ -179,9 +179,11 @@ npm installnpm run build
 ## 5. 页面展示
 
 主页面
+
 ![](https://img.alicdn.com/imgextra/i1/O1CN01lrCvHs1tShuqjEZQc_!!6000000005901-2-tps-450-292.png)
 
 oa查看组织信息
+
 ![](https://img.alicdn.com/imgextra/i4/O1CN01dMANZ91FKqU9YLqnb_!!6000000000469-2-tps-1096-581.png)
 
 ## 6. 参考文档
