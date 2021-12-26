@@ -65,7 +65,7 @@ dingBoot-windows.bat  # windows版本
 #### 4.1.2 下载项目
 
 ```shell
-git clone【项目地址】
+git clone https://github.com/open-dingtalk/h5app-org-sync-demo.git
 ```
 
 #### 4.1.3 启动脚本
@@ -129,7 +129,7 @@ git clone【项目地址】
 #### 4.2.1 下载项目
 
 ```shell
-git clone【项目地址】
+git clone https://github.com/open-dingtalk/h5app-org-sync-demo.git
 ```
 
 #### 4.2.2 配置应用参数
