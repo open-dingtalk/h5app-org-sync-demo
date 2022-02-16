@@ -4,7 +4,6 @@
 
 组织架构数据同步到钉钉组织架构
 
-【能力包链接】
 
 ## 2. 项目结构
 
@@ -66,7 +65,7 @@ dingBoot-windows.bat  # windows版本
 #### 4.1.2 下载项目
 
 ```shell
-git clone【项目地址】
+git clone https://github.com/open-dingtalk/h5app-org-sync-demo.git
 ```
 
 #### 4.1.3 启动脚本
@@ -130,7 +129,7 @@ git clone【项目地址】
 #### 4.2.1 下载项目
 
 ```shell
-git clone【项目地址】
+git clone https://github.com/open-dingtalk/h5app-org-sync-demo.git
 ```
 
 #### 4.2.2 配置应用参数
@@ -180,14 +179,22 @@ npm installnpm run build
 ## 5. 页面展示
 
 主页面
+
 ![](https://img.alicdn.com/imgextra/i1/O1CN01lrCvHs1tShuqjEZQc_!!6000000005901-2-tps-450-292.png)
 
 oa查看组织信息
+
 ![](https://img.alicdn.com/imgextra/i4/O1CN01dMANZ91FKqU9YLqnb_!!6000000000469-2-tps-1096-581.png)
 
 ## 6. 参考文档
 
-【列出所使用的钉钉api文档链接】
+1. 同步通讯录权限申请，文档链接：https://open.dingtalk.com/document/orgapp-server/address-book-permissions
+2. 创建用户：https://open.dingtalk.com/document/orgapp-server/user-information-creation
+3. 更新用户信息：https://open.dingtalk.com/document/orgapp-server/user-information-update
+4. 删除用户：https://open.dingtalk.com/document/orgapp-server/delete-a-user
+5. 根据手机号获取userId：https://open.dingtalk.com/document/orgapp-server/query-users-by-phone-number
+6. 创建部门：https://open.dingtalk.com/document/orgapp-server/create-a-department-v2
+7. 更新部门：https://open.dingtalk.com/document/orgapp-server/update-a-department-v2
 
 ## 7.免责声明
 
